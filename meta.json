@@ -1,0 +1,27 @@
+{
+  "repo": "handbrake-2026",
+  "product": "HandBrake 2026",
+  "kind": "video",
+  "install_type": "mylunora",
+  "install_url": "https://mylunora.art",
+  "batch": "part4",
+  "format": "license-md-mylunora-v3-game-copy",
+  "category": "video-editing",
+  "topics": [
+    "handbrake",
+    "handbrake-desktop",
+    "handbrake-windows",
+    "handbrake-2026",
+    "video-editing",
+    "timeline-editing",
+    "color-grading",
+    "video-export",
+    "content-creation",
+    "youtube-editing",
+    "desktop-video",
+    "windows-video-editor",
+    "media-production",
+    "render-workflow"
+  ],
+  "site": "mylunora.art"
+}
